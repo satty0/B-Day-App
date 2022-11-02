@@ -1,0 +1,13 @@
+input.ng-touched.ng-invalid{
+    border: 1px solid red;
+}
+
+.leftToright{
+    position:relative;
+    text-align: right;
+
+}
+.rightToleft{
+    position:relative;
+    text-align: left;
+}
